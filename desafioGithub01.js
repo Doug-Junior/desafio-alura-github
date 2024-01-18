@@ -11,3 +11,5 @@
 "Utilize o comando git remote -v no terminal."
 
 "Confira as mudanças nos arquivos."
+
+//modificação pelo repositório remoto.
